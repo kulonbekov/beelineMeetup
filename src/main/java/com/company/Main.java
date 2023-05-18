@@ -44,7 +44,7 @@ public class Main {
         Student student = new Student();
         student.setName("Taalai Kulonbekov");
         student.setPhone("+996700051170");
-        student.setGithubUrl("https://github.com/johndoe");
+        student.setGithubUrl("https://github.com/kulonbekov/beelineMeetup.git");
 
         // Шаг 6: Создать объект, содержащий результаты
         List<Map<String, Object>> results = new ArrayList<>();
